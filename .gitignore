@@ -1,0 +1,17 @@
+# środowisko wirtualne
+.venv/
+
+# pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# baza danych i sekrety
+db.sqlite3
+.env
+
+# pliki przesłane przez użytkowników
+media/
+
+# śmieci systemowe
+.DS_Store
+Thumbs.db

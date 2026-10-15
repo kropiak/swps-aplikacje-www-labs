@@ -1,0 +1,22 @@
+// Konfiguracja GitHub Codespaces / VS Code Dev Containers.
+// Koło ratunkowe dla osób, którym nie działa środowisko lokalne.
+{
+  "name": "Konsultacje (Python 3.13)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "postCreateCommand": "if [ -f requirements.txt ]; then pip install -r requirements.txt; fi",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "Django", "onAutoForward": "openBrowser" }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/usr/local/bin/python"
+      }
+    }
+  }
+}
