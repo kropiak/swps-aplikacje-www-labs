@@ -32,7 +32,7 @@ Aplikację piszesz **we własnym repozytorium**. To repozytorium służy do por�
 
 ## Uruchomienie gałęzi lokalnie
 
-🪟 Windows (PowerShell):
+💻 Windows (PowerShell):
 ```powershell
 python -m venv .venv
 .venv\Scripts\Activate.ps1
