@@ -4,7 +4,7 @@
 
 Aplikacja do rezerwacji konsultacji psychologicznych, którą budujemy krok po kroku na zajęciach.
 Instrukcje, zadania i slajdy znajdziesz w repozytorium
-👉 [kropiak/swps_aplikacje_www_materialy](https://github.com/kropiak/swps_aplikacje_www_materialy)
+👉 [kropiak/swps-aplikacje-www-materialy](https://github.com/kropiak/swps-aplikacje-www-materialy)
 
 ## Gałęzie
 
@@ -13,7 +13,7 @@ Każda gałąź zawiera kod w stanie **po zakończeniu** danego labu. Kolejne ga
 | Gałąź | Stan po labie |
 |---|---|
 | [`lab-01`](../../tree/lab-01) | Środowisko: skrypt powitalny, `requirements.txt`, `.gitignore` |
-| `lab-02` | Git i GitHub |
+| [`lab-02`](../../tree/lab-02) | Git i GitHub |
 | `lab-03` | Projekt Django, pierwsze modele, panel admina |
 | `lab-04` | Pełny model domeny, dostosowany admin, widoki i routing |
 | `lab-05` | Szablony (Tailwind), formularz rezerwacji |
@@ -28,7 +28,7 @@ Aplikację piszesz **we własnym repozytorium**. To repozytorium służy do por�
 
 - **podgląd:** wybierz gałąź na GitHubie (przycisk z nazwą gałęzi nad listą plików),
 - **pobranie gałęzi jako ZIP:** wybierz gałąź → **Code → Download ZIP**,
-- **sklonowanie gałęzi:** `git clone -b lab-04 https://github.com/kropiak/swps_aplikacje_www_labs.git lab-04`
+- **sklonowanie gałęzi:** `git clone -b lab-04 https://github.com/kropiak/swps-aplikacje-www-labs.git lab-04`
 
 ## Uruchomienie gałęzi lokalnie
 
