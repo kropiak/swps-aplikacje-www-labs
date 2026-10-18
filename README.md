@@ -1,5 +1,5 @@
 > ℹ️ To gałąź `lab-02` repozytorium kursowego: stan projektu po labie 2.
-> Opis repozytorium i listę gałęzi znajdziesz na [gałęzi `main`](https://github.com/kropiak/swps_aplikacje_www_labs).
+> Opis repozytorium i listę gałęzi znajdziesz na [gałęzi `main`](https://github.com/kropiak/swps-aplikacje-www-labs).
 
 # Konsultacje psychologiczne: rezerwacja wizyt
 
