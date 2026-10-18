@@ -32,6 +32,7 @@ def main() -> None:
         table.add_row(first_name, last_name, specialization, mode)
 
     console.print(table)
+    console.print(f"Liczba specjalistów: [bold]{len(SPECIALISTS)}[/]")
 
 
 if __name__ == "__main__":
