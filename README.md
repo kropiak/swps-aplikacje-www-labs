@@ -1,4 +1,4 @@
-> ℹ️ To gałąź `lab-02` repozytorium kursowego: stan projektu po labie 2.
+> ℹ️ To gałąź `lab-03` repozytorium kursowego: stan projektu po labie 3.
 > Opis repozytorium i listę gałęzi znajdziesz na [gałęzi `main`](https://github.com/kropiak/swps-aplikacje-www-labs).
 
 # Konsultacje psychologiczne: rezerwacja wizyt
@@ -10,7 +10,8 @@ Aplikacja do rezerwacji konsultacji psychologicznych, tworzona na zajęciach
 
     python -m venv .venv
     pip install -r requirements.txt
-    python hello.py
+    python manage.py migrate
+    python manage.py runserver
 
 ## Planowane funkcje
 
