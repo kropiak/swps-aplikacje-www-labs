@@ -14,7 +14,7 @@ Każda gałąź zawiera kod w stanie **po zakończeniu** danego labu. Kolejne ga
 |---|---|
 | [`lab-01`](../../tree/lab-01) | Środowisko: skrypt powitalny, `requirements.txt`, `.gitignore` |
 | [`lab-02`](../../tree/lab-02) | Git i GitHub |
-| `lab-03` | Projekt Django, pierwsze modele, panel admina |
+| [`lab-03`](../../tree/lab-03) | Projekt Django, pierwsze modele, panel admina |
 | `lab-04` | Pełny model domeny, dostosowany admin, widoki i routing |
 | `lab-05` | Szablony (Tailwind), formularz rezerwacji |
 | `lab-06` | REST API (DRF), Swagger |
